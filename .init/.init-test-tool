@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/tmp/kavia/workspace/code-generation/book-catalogue-explorer-7713-7722/books_catalogue_frontend"
+}
